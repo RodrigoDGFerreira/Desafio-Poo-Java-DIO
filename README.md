@@ -1,4 +1,4 @@
-# Desafio POO da DIO
+# Desafio POO em JAVA da DIO
 
 Este é um Desafio de Projeto da DIO.
 
